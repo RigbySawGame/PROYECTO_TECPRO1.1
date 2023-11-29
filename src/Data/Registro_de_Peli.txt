@@ -1,0 +1,26 @@
+FROZEN II||2D||2:45 pm||2||2||0||
+GUASON||2D||10:30 am||2||2||0||
+GUASON||2D||10:30 am||1||0||0||
+FROZEN II||2D||10:30 am||1||0||3||
+GUASON||2D||10:30 am||0||0||0||
+GUASON||2D||10:30 am||2||0||0||
+GUASON||2D||10:30 am||2||0||0||
+FROZEN II||2D||10:30 am||2||4||0||
+GUASON||2D||2:45 pm||2||4||0||
+GUASON||DBOX 2D||10:30 am||1||2||0||
+GUASON||2D||10:30 am||1||0||0||
+GUASON||2D||10:30 am||1||0||0||
+FROZEN II||2D||10:30 am||2||0||0||
+GUASON||2D||10:30 am||2||0||0||
+GUASON||2D||10:30 am||1||3||1||
+GUASON||2D||10:30 am||2||2||0||
+GUASON||2D||10:30 am||1||0||0||
+GUASON||2D||10:30 am||1||2||0||
+GUASON||2D||10:30 am||2||1||0||
+FROZEN II||DBOX 2D||10:30 am||2||1||0||
+GUASON||2D||10:30 am||1||1||0||
+GUASON||2D||10:30 am||1||2||0||
+GUASON||2D||10:30 am||3||1||0||
+FROZEN II||2D||10:30 am||1||0||0||
+GUASON||2D||10:30 am||2||1||0||
+FROZEN II||2D||10:30 am||2||0||0||

@@ -1,0 +1,12 @@
+CAMBIA TU POP CORN A DULCE;S/ 2.00 por caja, aplica para todos los tamaños;2.0
+COMBO DUO SAL CINEMARK;2 Pop C grandes c/ sal + 2 Gaseosas grandes;30.5
+COMBO TRIO SAL CINEMARK;3 Pop C medianos c/ sal + 3 Gaseosas medianas;32.9
+COMBINACION  1 SAL;1 Pop Corn mediano con sal + 1 Gaseosa mediana;13.0
+MEGA COMBINACION 1 SAL;1 Pop Corn mediano con sal + 1 Gaseosa grande ;13.5
+COMBINACION 2 SAL;1 Pop Corn grande con sal + 2 Gaseosas medianas;19.5
+MEGA COMBINACION 2 SAL;1 Pop Corn grande con sal + 2 Gaseosas grandes;21.5
+HOT DOG FRANKFURTER;Sabroso Frankfurter grnade acompañado de papitas al hilo;9.3
+NACHOS CON QUESO;Crujientes Nachos con una deliciosa salsa de queso cheddar;8.8
+POP CORN MEDIANO SAL;;7.5
+AGUA;;3.3
+GASEOSA MEDIANA;;8.1
